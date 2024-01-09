@@ -16,3 +16,5 @@ if(randomnumber1>randomNumber2){
 }else{
     document.querySelector("h1").innerHTML="🚩 draw!"
 }
+
+
